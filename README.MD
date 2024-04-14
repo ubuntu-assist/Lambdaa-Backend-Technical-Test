@@ -42,7 +42,7 @@ I diligently followed all additional instructions provided in the frontend devel
 ## Quickstart
 
 ```
-git clone https://github.com/weshare237/Lambdaa-Backend-Technical-Test
+git clone https://github.com/weshare237/Lambdaa-Backend-Technical-Test.git
 cd Lambdaa-Backend-Technical-Test
 cp .env.example .env
 npm install
